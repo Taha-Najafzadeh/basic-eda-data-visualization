@@ -13,3 +13,18 @@ In this we are working with 4 types and another any
 - subarachnoid
 - subdural
 - any
+
+<a id="top"></a> <br>
+## Notebook  Content
+
+1. [What is an intracranial hemorrhage](#1)
+1. [Import](#2)
+1. [Load Data](#3)
+1. [Check images](#4)
+1. [Visualization](#5)
+1. [Working newTable ](#6)
+1. [Visualization of hemorrhage epidural](#7)
+1. [Visualization of hemorrhage Intraparenchymal](#8)
+1. [Visualization of hemorrhage Intraparenchymal](#9)
+1. [Visualization of hemorrhage Subarachnoid](#10)
+1. [Visualization of hemorrhage subdural](#11)
