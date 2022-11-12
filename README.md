@@ -17,14 +17,14 @@ In this we are working with 4 types and another any
 
 ## Notebook  Content
 
-1. [What is an intracranial hemorrhage](#1)
-1. [Import](#2)
-1. [Load Data](#3)
-1. [Check images]
-1. [Visualization]
-1. [Working newTable ]
-1. [Visualization of hemorrhage epidural](#7)
-1. [Visualization of hemorrhage Intraparenchymal](#8)
-1. [Visualization of hemorrhage Intraparenchymal](#9)
-1. [Visualization of hemorrhage Subarachnoid](#10)
-1. [Visualization of hemorrhage subdural](#11)
+ 1. What is an intracranial hemorrhage
+ 2. Import
+ 3. Load Data
+ 4. Check images
+ 5. Visualization
+ 6. Working newTable
+ 7. Visualization of hemorrhage epidural
+ 8. Visualization of hemorrhage Intraparenchymal
+ 9. Visualization of hemorrhage Intraparenchymal
+10. Visualization of hemorrhage Subarachnoid
+11. Visualization of hemorrhage subdural
