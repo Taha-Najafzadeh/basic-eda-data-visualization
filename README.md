@@ -1,4 +1,4 @@
-# basic-eda-data-visualization
+# basic eda data visualization
 ## <div style="text-align: center"> First Impression about this RSNA Intracranial Hemorrhage
 </div>
 <img src="https://images.idgesg.net/images/article/2017/09/data-science-certification10-100734865-large.jpg">
